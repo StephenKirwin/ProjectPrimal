@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Recipes>
+  <recipe>
+    <name>Workbench</name>
+    <req1>3</req1>
+    <qua1>1</qua1>
+    <req2>0</req2>
+    <qua2>0</qua2>
+    <req3>0</req3>
+    <qua3>0</qua3>
+    <yield>4</yield>
+    <quay>1</quay>
+    <craftsIn>inv</craftsIn>
+  </recipe>
+  <recipe>
+    <name>Campfire</name>
+    <req1>3</req1>
+    <qua1>2</qua1>
+    <req2>2</req2>
+    <qua2>3</qua2>
+    <req3>0</req3>
+    <qua3>0</qua3>
+    <yield>5</yield>
+    <quay>1</quay>
+    <craftsIn>inv</craftsIn>
+  </recipe>
+  <recipe>
+    <name>Rock Furnace</name>
+    <req1>2</req1>
+    <qua1>5</qua1>
+    <req2>0</req2>
+    <qua2>0</qua2>
+    <req3>0</req3>
+    <qua3>0</qua3>
+    <yield>6</yield>
+    <quay>1</quay>
+    <craftsIn>Workbench</craftsIn>
+  </recipe>
+  <recipe>
+    <name>Stone Spear</name>
+    <req1>2</req1>
+    <qua1>1</qua1>
+    <req2>3</req2>
+    <qua2>2</qua2>
+    <req3>0</req3>
+    <qua3>0</qua3>
+    <yield>7</yield>
+    <quay>1</quay>
+    <craftsIn>Workbench</craftsIn>
+  </recipe>
+  <recipe>
+    <name>Chest</name>
+    <req1>3</req1>
+    <qua1>4</qua1>
+    <req2>0</req2>
+    <qua2>0</qua2>
+    <req3>0</req3>
+    <qua3>0</qua3>
+    <yield>8</yield>
+    <quay>1</quay>
+    <craftsIn>Workbench</craftsIn>
+  </recipe>
+  <recipe>
+    <name>Cooked Chicken</name>
+    <req1>10</req1>
+    <qua1>1</qua1>
+    <req2>0</req2>
+    <qua2>0</qua2>
+    <req3>0</req3>
+    <qua3>0</qua3>
+    <yield>11</yield>
+    <quay>1</quay>
+    <craftsIn>Campfire</craftsIn>
+  </recipe>
+</Recipes>

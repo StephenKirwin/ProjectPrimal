@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Entities>
+  <entity>
+    <texture>npc</texture>
+    <name>NPC</name>
+    <attacksPlayer>False</attacksPlayer>
+    <communicates>True</communicates>
+    <speed>0.015625</speed>
+    <visWidth>1</visWidth>
+    <visHeight>2</visHeight>
+    <visOffX>0</visOffX>
+    <visOffY>-1</visOffY>
+    <drops>False</drops>
+    <dropsItem>0</dropsItem>
+    <hasParticles>False</hasParticles>
+  </entity>
+  <entity>
+    <texture>jag</texture>
+    <name>Jaguar</name>
+    <attacksPlayer>True</attacksPlayer>
+    <communicates>False</communicates>
+    <speed>0.0625</speed>
+    <visWidth>1.5</visWidth>
+    <visHeight>1</visHeight>
+    <visOffX>-0.25</visOffX>
+    <visOffY>0</visOffY>
+    <drops>True</drops>
+    <dropsItem>9</dropsItem>
+    <hasParticles>False</hasParticles>
+  </entity>
+  <entity>
+    <texture>chicken</texture>
+    <name>chicken</name>
+    <attacksPlayer>False</attacksPlayer>
+    <communicates>False</communicates>
+    <speed>0.015625</speed>
+    <visWidth>1</visWidth>
+    <visHeight>1</visHeight>
+    <visOffX>0</visOffX>
+    <visOffY>0</visOffY>
+    <drops>True</drops>
+    <dropsItem>10</dropsItem>
+    <hasParticles>True</hasParticles>
+  </entity>
+</Entities>

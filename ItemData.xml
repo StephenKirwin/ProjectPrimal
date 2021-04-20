@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <item>
+    <name>Nothing</name>
+    <texture>blank</texture>
+    <placeable>False</placeable>
+    <places>0</places>
+    <edible>False</edible>
+    <damage>15</damage>
+  </item>
+  <item>
+    <name>Berries</name>
+    <texture>berries</texture>
+    <placeable>False</placeable>
+    <places>0</places>
+    <edible>True</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Rock</name>
+    <texture>rock</texture>
+    <placeable>True</placeable>
+    <places>2</places>
+    <edible>False</edible>
+    <damage>15</damage>
+  </item>
+  <item>
+    <name>Wood</name>
+    <texture>wood</texture>
+    <placeable>True</placeable>
+    <places>3</places>
+    <edible>False</edible>
+    <damage>5</damage>
+  </item>
+  <item>
+    <name>Workbench</name>
+    <texture>workbench</texture>
+    <placeable>True</placeable>
+    <places>6</places>
+    <edible>False</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Campfire</name>
+    <texture>campfire</texture>
+    <placeable>True</placeable>
+    <places>4</places>
+    <edible>False</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Rock Furnace</name>
+    <texture>rockfurnace</texture>
+    <placeable>True</placeable>
+    <places>7</places>
+    <edible>False</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Stone Spear</name>
+    <texture>spear</texture>
+    <placeable>False</placeable>
+    <places>0</places>
+    <edible>False</edible>
+    <damage>30</damage>
+  </item>
+  <item>
+    <name>Wooden Chest</name>
+    <texture>chest</texture>
+    <placeable>True</placeable>
+    <places>9</places>
+    <edible>False</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Jaguar Hide</name>
+    <texture>jaguarhide</texture>
+    <placeable>False</placeable>
+    <places>0</places>
+    <edible>False</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Raw Chicken</name>
+    <texture>rawchicken</texture>
+    <placeable>False</placeable>
+    <places>0</places>
+    <edible>True</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Cooked Chicken</name>
+    <texture>cookedchicken</texture>
+    <placeable>False</placeable>
+    <places>0</places>
+    <edible>True</edible>
+    <damage>3</damage>
+  </item>
+  <item>
+    <name>Small Tent</name>
+    <texture>tent</texture>
+    <placeable>True</placeable>
+    <places>10</places>
+    <edible>False</edible>
+    <damage>3</damage>
+  </item>
+</Items>
